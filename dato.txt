@@ -1,0 +1,1 @@
+Implementar en Docker, a flask con mysql
